@@ -4,7 +4,7 @@
 
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
-🧭 Frontend Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 IT Student from Kakatiya University [2024]<br>📧 nikithagundameedigmail.com<br>
+🧭 Frontend Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 IT Student from Kakatiya University [2024]<br>📧 nikithagundameedi@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhitha-gundameedi-3b6699226/)
