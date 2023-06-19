@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NikhithaGundameediish&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=NikhithaGundameedi&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhithaGundameedi&theme=dark" alt="" /></td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhithaGundameediish&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhithaGundameedi&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="" />
   </p>
  </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
