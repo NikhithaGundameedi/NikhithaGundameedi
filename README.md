@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NikhithaGundameedi&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="NikhithaGundameedi" /></td>
+
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhithaGundameedi&theme=dark" alt="NikhithaGundameedi" /></td>
   </tr>
 </table>
