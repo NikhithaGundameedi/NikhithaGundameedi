@@ -23,12 +23,12 @@
   <tbody> 
     <tr>
       <td> <b>  Frontend developer Intern</b> </td>
-      <td><a href="https://www.busagroup.in/#/home"/><b>Etherworld</b></a></td>
+      <td><a href="https://www.busagroup.in/#/home"/><b>Busa Techlo</b></a></td>
       <td> <b> Present </b> </td>
    </tr>
     <tr>
       <td> <b> WordPress developer Intern</b> </td>
-      <td><a href="https://www.myoriel.com/"/><b>Linqway Techniks</b></a></td>
+      <td><a href="https://www.myoriel.com/"/><b>Oriel Technologies</b></a></td>
       <td> <b>Nov 2022 - Feb 2023 </b> </td>
    </tr>
    </tbody>	 
