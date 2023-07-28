@@ -23,7 +23,7 @@
   <tbody> 
     <tr>
       <td> <b>  Frontend developer Intern</b> </td>
-      <td><a href="https://www.busagroup.in/#/home"/><b>Busa Techlo</b></a></td>
+      <td><a href="https://www.busatech.com/"/><b>Busa Techlo</b></a></td>
       <td> <b> Present </b> </td>
    </tr>
     <tr>
