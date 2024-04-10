@@ -24,7 +24,7 @@
     <tr>
       <td> <b>  Frontend developer Intern</b> </td>
       <td><a href="http://www.sumpositive.com//"/><b>Sumpositive</b></a></td>
-      <td> <b> Present </b> </td>
+      <td> <b> Oct 2023 - Mar 2024</b> </td>
    </tr>
     <tr>
       <td> <b> WordPress developer Intern</b> </td>
