@@ -21,18 +21,6 @@
       <td><b> ⏰Timeline  </b></td> 
       </tr>
   </thead>
-  <tbody> 
-    <tr>
-      <td> <b>  Frontend developer Intern</b> </td>
-      <td><a href="http://www.sumpositive.com//"/><b>Sumpositive</b></a></td>
-      <td> <b> Oct 2023 - Mar 2024</b> </td>
-   </tr>
-    <tr>
-      <td> <b> WordPress developer Intern</b> </td>
-      <td><a href="https://www.myoriel.com/"/><b>Oriel Technologies</b></a></td>
-      <td> <b>Nov 2022 - Feb 2023 </b> </td>
-   </tr>
-   </tbody>	 
 </table>
 
 <br/>
